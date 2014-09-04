@@ -47,7 +47,7 @@ module.exports = function(grunt) {
       build: {
         options: {
           // Replace remote with your own repo
-          remote: '',
+          remote: 'git@github.com:jancantor/grunt-email-template.git',
           branch: 'gh-pages'
         }
       }

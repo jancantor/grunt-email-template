@@ -4,7 +4,7 @@
   "description": "A grunt email template with livereload and github pages deployment",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:jancantor/grunt-email-template.git"
   },
   "author": {
     "name": "Jan Cantor"
